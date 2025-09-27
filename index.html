@@ -2,17 +2,72 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8" />
-	<title>Redirecting…</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>Pro-GenAI - Advancing AI Solutions | Redirecting to Main Site</title>
+	<meta name="description"
+		content="Pro-GenAI specializes in cutting-edge AI solutions and generative AI technologies. Visit my main website for innovative AI products, services, and resources." />
+	<meta name="keywords"
+		content="Pro-GenAI, artificial intelligence, generative AI, AI solutions, machine learning, AI development, AI consulting" />
+	<meta name="robots" content="index, follow" />
+	<meta name="author" content="Pro-GenAI" />
+
+	<!-- Open Graph / Facebook -->
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="https://pro-genai.github.io/" />
+	<meta property="og:title" content="Pro-GenAI - Advancing AI Solutions" />
+	<meta property="og:description"
+		content="Pro-GenAI specializes in cutting-edge AI solutions and generative AI technologies. Visit my main website for innovative AI products, services, and resources." />
+
+	<!-- Twitter -->
+	<meta property="twitter:card" content="summary_large_image" />
+	<meta property="twitter:url" content="https://pro-genai.github.io/" />
+	<meta property="twitter:title" content="Pro-GenAI - Advancing AI Solutions" />
+	<meta property="twitter:description"
+		content="Pro-GenAI specializes in cutting-edge AI solutions and generative AI technologies. Visit my main website for innovative AI products, services, and resources." />
+
 	<link rel="canonical" href="https://prane-eth.github.io/" />
-	<meta http-equiv="refresh" content="0; url=https://prane-eth.github.io/" />
+	<script type="application/ld+json">
+	{
+		"@context": "https://schema.org",
+		"@type": "Organization",
+		"name": "Pro-GenAI",
+		"url": "https://prane-eth.github.io/",
+		"description": "Pro-GenAI specializes in cutting-edge AI solutions and generative AI technologies",
+		"sameAs": [
+			"https://prane-eth.github.io/"
+		]
+	}
+	</script>
+	<meta http-equiv="refresh" content="5; url=https://prane-eth.github.io/" />
 	<script>
 		// Fallback JS redirect
-		(function() {
+		(function () {
 			window.location.replace("https://prane-eth.github.io/");
 		})();
 	</script>
 </head>
+
 <body>
 	<p>Redirecting to <a href="https://prane-eth.github.io/">https://prane-eth.github.io/</a></p>
+	<script>
+		// SEO-friendly delayed redirect (5 seconds)
+		setTimeout(function() {
+			window.location.replace("https://prane-eth.github.io/");
+		}, 5000);
+		
+		// Update countdown timer
+		let countdown = 5;
+		const timer = setInterval(function() {
+			countdown--;
+			const countdownElement = document.getElementById('countdown');
+			if (countdownElement) {
+				countdownElement.textContent = countdown;
+			}
+			if (countdown <= 0) {
+				clearInterval(timer);
+			}
+		}, 1000);
+	</script>
 </body>
+
 </html>
