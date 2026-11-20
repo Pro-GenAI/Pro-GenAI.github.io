@@ -1,0 +1,353 @@
+# Pro-GenAI — Full Project and Documentation Link Index
+
+> Plain-text, AI-readable companion to https://pro-genai.github.io/. 23 public repository links and 177 distinct project website URLs. Snapshot: 2026-11-20. All links below are also available in HTML on the main index page.
+
+## ReaTerm
+
+A Rust-based read-only terminal with Python, TypeScript, and MCP integrations for bounded file inspection in agent workflows; an experimental tool, not an audited security boundary.
+
+- [GitHub repository](https://github.com/Pro-GenAI/ReaTerm)
+- [Official project website](https://reaterm.pro-genai.com/)
+
+Source sitemap: https://github.com/Pro-GenAI/ReaTerm/blob/main/docs/website/sitemap.xml (SHA 8103687dc1b79087f3e626d644a0409212c76c4f)
+
+
+## Awesome Checklists
+
+An evidence-oriented checklist library spanning GenAI, RAG, agent safety, evaluation, security, and software launch readiness.
+
+- [GitHub repository](https://github.com/Pro-GenAI/awesome-checklists)
+- [AGENTS](https://awesome-checklists.pro-genai.com/AGENTS.html)
+- [Docs · Agents · Contributor Workflows](https://awesome-checklists.pro-genai.com/docs/agents/contributor-workflows.html)
+- [Docs · Agents · Maintenance Backlog](https://awesome-checklists.pro-genai.com/docs/agents/maintenance-backlog.html)
+- [Docs · Agents · Resources And Tooling](https://awesome-checklists.pro-genai.com/docs/agents/resources-and-tooling.html)
+- [Docs · Agents · Scope Inventory](https://awesome-checklists.pro-genai.com/docs/agents/scope-inventory.html)
+- [AUTHORSHIP](https://awesome-checklists.pro-genai.com/AUTHORSHIP.html)
+- [AWESOME](https://awesome-checklists.pro-genai.com/AWESOME.html)
+- [CHANGELOG](https://awesome-checklists.pro-genai.com/CHANGELOG.html)
+- [Checklists · Agent Safety](https://awesome-checklists.pro-genai.com/checklists/agent-safety.html)
+- [Checklists · Evaluation Observability](https://awesome-checklists.pro-genai.com/checklists/evaluation-observability.html)
+- [Checklists · Production Readiness](https://awesome-checklists.pro-genai.com/checklists/production-readiness.html)
+- [Checklists · Prompt Context](https://awesome-checklists.pro-genai.com/checklists/prompt-context.html)
+- [Checklists · Rag Data](https://awesome-checklists.pro-genai.com/checklists/rag-data.html)
+- [Checklists · README](https://awesome-checklists.pro-genai.com/checklists/README.html)
+- [CONTRIBUTING](https://awesome-checklists.pro-genai.com/CONTRIBUTING.html)
+- [DEVELOPMENT](https://awesome-checklists.pro-genai.com/DEVELOPMENT.html)
+- [Docs · LICENSING](https://awesome-checklists.pro-genai.com/docs/LICENSING.html)
+- [01 Requirements And Planning](https://awesome-checklists.pro-genai.com/01_Requirements_and_Planning.html)
+- [02 LegalIssues](https://awesome-checklists.pro-genai.com/02_LegalIssues.html)
+- [03 Architecture And CodeQuality](https://awesome-checklists.pro-genai.com/03_Architecture_and_CodeQuality.html)
+- [04 Internationalization And Localization](https://awesome-checklists.pro-genai.com/04_Internationalization_and_Localization.html)
+- [05 Security](https://awesome-checklists.pro-genai.com/05_Security.html)
+- [06 Cost And FinOps](https://awesome-checklists.pro-genai.com/06_Cost_and_FinOps.html)
+- [07 Documentation And DeveloperExperience](https://awesome-checklists.pro-genai.com/07_Documentation_and_DeveloperExperience.html)
+- [08 Testing](https://awesome-checklists.pro-genai.com/08_Testing.html)
+- [09 Performance And Scalability](https://awesome-checklists.pro-genai.com/09_Performance_and_Scalability.html)
+- [10 Reliability And DisasterRecovery](https://awesome-checklists.pro-genai.com/10_Reliability_and_DisasterRecovery.html)
+- [11 DevOps And CI CD](https://awesome-checklists.pro-genai.com/11_DevOps_and_CI_CD.html)
+- [12 Monitoring And Observability](https://awesome-checklists.pro-genai.com/12_Monitoring_and_Observability.html)
+- [13 Analytics And ProductMetrics](https://awesome-checklists.pro-genai.com/13_Analytics_and_ProductMetrics.html)
+- [14 Release And LaunchReadiness](https://awesome-checklists.pro-genai.com/14_Release_and_LaunchReadiness.html)
+- [AI · 01 Requirements And Planning](https://awesome-checklists.pro-genai.com/AI/01_Requirements_and_Planning.html)
+- [AI · 02 LegalIssues](https://awesome-checklists.pro-genai.com/AI/02_LegalIssues.html)
+- [AI · 03 AI Evaluation And Governance](https://awesome-checklists.pro-genai.com/AI/03_AI_Evaluation_and_Governance.html)
+- [AI · 04 Security](https://awesome-checklists.pro-genai.com/AI/04_Security.html)
+- [AI · 05 AI Model Selection And Benchmarking](https://awesome-checklists.pro-genai.com/AI/05_AI_Model_Selection_and_Benchmarking.html)
+- [AI · 06 AI Data Curation And Labeling](https://awesome-checklists.pro-genai.com/AI/06_AI_Data_Curation_and_Labeling.html)
+- [AI · 07 AI Model And Dataset Cards](https://awesome-checklists.pro-genai.com/AI/07_AI_Model_and_Dataset_Cards.html)
+- [AI · 08 AI FineTuning And Training](https://awesome-checklists.pro-genai.com/AI/08_AI_FineTuning_and_Training.html)
+- [AI · 09 Prompt Engineering And Versioning](https://awesome-checklists.pro-genai.com/AI/09_Prompt_Engineering_and_Versioning.html)
+- [AI · 10 RAG And Knowledge Bases](https://awesome-checklists.pro-genai.com/AI/10_RAG_and_Knowledge_Bases.html)
+- [AI · 11 AI Agents And Tool Orchestration](https://awesome-checklists.pro-genai.com/AI/11_AI_Agents_and_Tool_Orchestration.html)
+- [AI · 12 AI Inference And Serving](https://awesome-checklists.pro-genai.com/AI/12_AI_Inference_and_Serving.html)
+- [AI · 13 Multimodal AI Quality](https://awesome-checklists.pro-genai.com/AI/13_Multimodal_AI_Quality.html)
+- [AI · 14 AI Human Review And Escalation](https://awesome-checklists.pro-genai.com/AI/14_AI_Human_Review_and_Escalation.html)
+- [AI · 15 AI Evaluation And Regression](https://awesome-checklists.pro-genai.com/AI/15_AI_Evaluation_and_Regression.html)
+- [AI · 16 AI Red Teaming And Guardrails](https://awesome-checklists.pro-genai.com/AI/16_AI_Red_Teaming_and_Guardrails.html)
+- [AI · 17 MLOps And Model Lifecycle](https://awesome-checklists.pro-genai.com/AI/17_MLOps_and_Model_Lifecycle.html)
+- [AI · 18 AI Monitoring And Drift](https://awesome-checklists.pro-genai.com/AI/18_AI_Monitoring_and_Drift.html)
+- [AI · 19 Cost And FinOps](https://awesome-checklists.pro-genai.com/AI/19_Cost_and_FinOps.html)
+- [AI · 20 Analytics And ProductMetrics](https://awesome-checklists.pro-genai.com/AI/20_Analytics_and_ProductMetrics.html)
+- [AI · 21 GEO And AEO](https://awesome-checklists.pro-genai.com/AI/21_GEO_and_AEO.html)
+- [AI · 22 Release And LaunchReadiness](https://awesome-checklists.pro-genai.com/AI/22_Release_and_LaunchReadiness.html)
+- [Backend · 01 Requirements And Planning](https://awesome-checklists.pro-genai.com/backend/01_Requirements_and_Planning.html)
+- [Backend · 02 LegalIssues](https://awesome-checklists.pro-genai.com/backend/02_LegalIssues.html)
+- [Backend · 03 Architecture And CodeQuality](https://awesome-checklists.pro-genai.com/backend/03_Architecture_and_CodeQuality.html)
+- [Backend · 04 UI UX And Usability](https://awesome-checklists.pro-genai.com/backend/04_UI_UX_and_Usability.html)
+- [Backend · 05 Accessibility](https://awesome-checklists.pro-genai.com/backend/05_Accessibility.html)
+- [Backend · 06 Internationalization And Localization](https://awesome-checklists.pro-genai.com/backend/06_Internationalization_and_Localization.html)
+- [Backend · 07 API Design And Integrations](https://awesome-checklists.pro-genai.com/backend/07_API_Design_and_Integrations.html)
+- [Backend · 08 Data And DatabaseManagement](https://awesome-checklists.pro-genai.com/backend/08_Data_and_DatabaseManagement.html)
+- [Backend · 09 Security](https://awesome-checklists.pro-genai.com/backend/09_Security.html)
+- [Backend · 10 AI Evaluation And Governance](https://awesome-checklists.pro-genai.com/backend/10_AI_Evaluation_and_Governance.html)
+- [Backend · 11 AI Model Selection And Benchmarking](https://awesome-checklists.pro-genai.com/backend/11_AI_Model_Selection_and_Benchmarking.html)
+- [Backend · 12 AI Data Curation And Labeling](https://awesome-checklists.pro-genai.com/backend/12_AI_Data_Curation_and_Labeling.html)
+- [Backend · 13 AI Model And Dataset Cards](https://awesome-checklists.pro-genai.com/backend/13_AI_Model_and_Dataset_Cards.html)
+- [Backend · 14 AI FineTuning And Training](https://awesome-checklists.pro-genai.com/backend/14_AI_FineTuning_and_Training.html)
+- [Backend · 15 Prompt Engineering And Versioning](https://awesome-checklists.pro-genai.com/backend/15_Prompt_Engineering_and_Versioning.html)
+- [Backend · 16 RAG And Knowledge Bases](https://awesome-checklists.pro-genai.com/backend/16_RAG_and_Knowledge_Bases.html)
+- [Backend · 17 AI Agents And Tool Orchestration](https://awesome-checklists.pro-genai.com/backend/17_AI_Agents_and_Tool_Orchestration.html)
+- [Backend · 18 AI Inference And Serving](https://awesome-checklists.pro-genai.com/backend/18_AI_Inference_and_Serving.html)
+- [Backend · 19 Multimodal AI Quality](https://awesome-checklists.pro-genai.com/backend/19_Multimodal_AI_Quality.html)
+- [Backend · 20 AI Human Review And Escalation](https://awesome-checklists.pro-genai.com/backend/20_AI_Human_Review_and_Escalation.html)
+- [Backend · 21 AI Evaluation And Regression](https://awesome-checklists.pro-genai.com/backend/21_AI_Evaluation_and_Regression.html)
+- [Backend · 22 AI Red Teaming And Guardrails](https://awesome-checklists.pro-genai.com/backend/22_AI_Red_Teaming_and_Guardrails.html)
+- [Backend · 23 MLOps And Model Lifecycle](https://awesome-checklists.pro-genai.com/backend/23_MLOps_and_Model_Lifecycle.html)
+- [Backend · 24 AI Monitoring And Drift](https://awesome-checklists.pro-genai.com/backend/24_AI_Monitoring_and_Drift.html)
+- [Backend · 25 Documentation And DeveloperExperience](https://awesome-checklists.pro-genai.com/backend/25_Documentation_and_DeveloperExperience.html)
+- [Backend · 26 Testing](https://awesome-checklists.pro-genai.com/backend/26_Testing.html)
+- [Backend · 27 Performance And Scalability](https://awesome-checklists.pro-genai.com/backend/27_Performance_and_Scalability.html)
+- [Backend · 28 SEO](https://awesome-checklists.pro-genai.com/backend/28_SEO.html)
+- [Backend · 29 GEO And AEO](https://awesome-checklists.pro-genai.com/backend/29_GEO_and_AEO.html)
+- [Backend · 30 DevOps And CI CD](https://awesome-checklists.pro-genai.com/backend/30_DevOps_and_CI_CD.html)
+- [Backend · 31 Reliability And DisasterRecovery](https://awesome-checklists.pro-genai.com/backend/31_Reliability_and_DisasterRecovery.html)
+- [Backend · 32 Monitoring And Observability](https://awesome-checklists.pro-genai.com/backend/32_Monitoring_and_Observability.html)
+- [Backend · 33 Analytics And ProductMetrics](https://awesome-checklists.pro-genai.com/backend/33_Analytics_and_ProductMetrics.html)
+- [Backend · 34 Cost And FinOps](https://awesome-checklists.pro-genai.com/backend/34_Cost_and_FinOps.html)
+- [Backend · 35 Release And LaunchReadiness](https://awesome-checklists.pro-genai.com/backend/35_Release_and_LaunchReadiness.html)
+- [Frontend · 01 Requirements And Planning](https://awesome-checklists.pro-genai.com/frontend/01_Requirements_and_Planning.html)
+- [Frontend · 02 LegalIssues](https://awesome-checklists.pro-genai.com/frontend/02_LegalIssues.html)
+- [Frontend · 03 Architecture And CodeQuality](https://awesome-checklists.pro-genai.com/frontend/03_Architecture_and_CodeQuality.html)
+- [Frontend · 04 UI UX And Usability](https://awesome-checklists.pro-genai.com/frontend/04_UI_UX_and_Usability.html)
+- [Frontend · 05 Accessibility](https://awesome-checklists.pro-genai.com/frontend/05_Accessibility.html)
+- [Frontend · 06 Internationalization And Localization](https://awesome-checklists.pro-genai.com/frontend/06_Internationalization_and_Localization.html)
+- [Frontend · 07 API Design And Integrations](https://awesome-checklists.pro-genai.com/frontend/07_API_Design_and_Integrations.html)
+- [Frontend · 08 Data And DatabaseManagement](https://awesome-checklists.pro-genai.com/frontend/08_Data_and_DatabaseManagement.html)
+- [Frontend · 09 Security](https://awesome-checklists.pro-genai.com/frontend/09_Security.html)
+- [Frontend · 10 Documentation And DeveloperExperience](https://awesome-checklists.pro-genai.com/frontend/10_Documentation_and_DeveloperExperience.html)
+- [Frontend · 11 Testing](https://awesome-checklists.pro-genai.com/frontend/11_Testing.html)
+- [Frontend · 12 Performance And Scalability](https://awesome-checklists.pro-genai.com/frontend/12_Performance_and_Scalability.html)
+- [Frontend · 13 SEO](https://awesome-checklists.pro-genai.com/frontend/13_SEO.html)
+- [Frontend · 14 GEO And AEO](https://awesome-checklists.pro-genai.com/frontend/14_GEO_and_AEO.html)
+- [Frontend · 15 DevOps And CI CD](https://awesome-checklists.pro-genai.com/frontend/15_DevOps_and_CI_CD.html)
+- [Frontend · 16 Reliability And DisasterRecovery](https://awesome-checklists.pro-genai.com/frontend/16_Reliability_and_DisasterRecovery.html)
+- [Frontend · 17 Monitoring And Observability](https://awesome-checklists.pro-genai.com/frontend/17_Monitoring_and_Observability.html)
+- [Frontend · 18 Analytics And ProductMetrics](https://awesome-checklists.pro-genai.com/frontend/18_Analytics_and_ProductMetrics.html)
+- [Frontend · 19 Cost And FinOps](https://awesome-checklists.pro-genai.com/frontend/19_Cost_and_FinOps.html)
+- [Frontend · 20 Release And LaunchReadiness](https://awesome-checklists.pro-genai.com/frontend/20_Release_and_LaunchReadiness.html)
+- [Seo Redesign Url Map Template](https://awesome-checklists.pro-genai.com/seo-redesign-url-map-template.html)
+- [References · Agent Domain Map](https://awesome-checklists.pro-genai.com/references/agent-domain-map.html)
+- [References · Agent Testing Tools](https://awesome-checklists.pro-genai.com/references/agent-testing-tools.html)
+- [References · Ai Source Watch](https://awesome-checklists.pro-genai.com/references/ai-source-watch.html)
+- [References · Compliance Crosswalk](https://awesome-checklists.pro-genai.com/references/compliance-crosswalk.html)
+- [References · Control Crosswalk](https://awesome-checklists.pro-genai.com/references/control-crosswalk.html)
+- [References · Core 50](https://awesome-checklists.pro-genai.com/references/core-50.html)
+- [References · Downstream Update Guide](https://awesome-checklists.pro-genai.com/references/downstream-update-guide.html)
+- [References · Example Review](https://awesome-checklists.pro-genai.com/references/example-review.html)
+- [References · Id History](https://awesome-checklists.pro-genai.com/references/id-history.html)
+- [References · Id Prefix Ranges](https://awesome-checklists.pro-genai.com/references/id-prefix-ranges.html)
+- [References · Independent Review Protocol](https://awesome-checklists.pro-genai.com/references/independent-review-protocol.html)
+- [References · Minimum Viable By Scope](https://awesome-checklists.pro-genai.com/references/minimum-viable-by-scope.html)
+- [References · Optional Testing Tools Ai](https://awesome-checklists.pro-genai.com/references/optional-testing-tools-ai.html)
+- [References · Optional Testing Tools Backend](https://awesome-checklists.pro-genai.com/references/optional-testing-tools-backend.html)
+- [References · Optional Testing Tools Frontend](https://awesome-checklists.pro-genai.com/references/optional-testing-tools-frontend.html)
+- [References · Optional Testing Tools Shared](https://awesome-checklists.pro-genai.com/references/optional-testing-tools-shared.html)
+- [References · Optional Testing Tools](https://awesome-checklists.pro-genai.com/references/optional-testing-tools.html)
+- [References · Overlap Review](https://awesome-checklists.pro-genai.com/references/overlap-review.html)
+- [References · Review Method](https://awesome-checklists.pro-genai.com/references/review-method.html)
+- [References · Scoped Review Generator](https://awesome-checklists.pro-genai.com/references/scoped-review-generator.html)
+- [References · Security Compound Triage](https://awesome-checklists.pro-genai.com/references/security-compound-triage.html)
+- [References · Security Surface Coverage](https://awesome-checklists.pro-genai.com/references/security-surface-coverage.html)
+- [References · Security Testing Tools](https://awesome-checklists.pro-genai.com/references/security-testing-tools.html)
+- [Source Coverage Audit](https://awesome-checklists.pro-genai.com/source-coverage-audit.html)
+- [References · Source Freshness Policy](https://awesome-checklists.pro-genai.com/references/source-freshness-policy.html)
+- [Official project website](https://awesome-checklists.pro-genai.com/)
+- [frontend checklist index](https://awesome-checklists.pro-genai.com/frontend/)
+- [backend checklist index](https://awesome-checklists.pro-genai.com/backend/)
+- [AI checklist index](https://awesome-checklists.pro-genai.com/AI/)
+
+Source sitemap: https://github.com/Pro-GenAI/awesome-checklists/blob/main/docs/website/sitemap.xml (SHA 4fa5f886b234191c4fc0072e62d71fd338f5479b)
+
+
+## OpenBox Agent-RT SDK (TS)
+
+A TypeScript integration between Agent-RT and OpenBox with an enforcing governance entry point and separate observability helpers.
+
+- [GitHub repository](https://github.com/Pro-GenAI/openbox-agentrt-sdk-ts)
+
+
+## OpenBox Agent-RT SDK (Python)
+
+A Python adapter for governing Agent-RT model and tool calls with inline policy checks, telemetry, and optional human approvals.
+
+- [GitHub repository](https://github.com/Pro-GenAI/openbox-agentrt-sdk-python)
+
+
+## Safe-LLM
+
+Fine-tuning experiments on the HarmActions dataset that train small language models to avoid harmful tool calls and report unsafe requests.
+
+- [GitHub repository](https://github.com/Pro-GenAI/Safe-LLM)
+
+
+## Generative AI Project Template
+
+A Python starter template with FastAPI chat endpoints, optional RAG utilities, tests, and Docker deployment examples.
+
+- [GitHub repository](https://github.com/Pro-GenAI/gen-ai-project-template)
+
+
+## A2A Agent Action Guard
+
+An Agent-to-Agent evaluation setup measuring whether agents attempt harmful tool actions when given adversarial tasks.
+
+- [GitHub repository](https://github.com/Pro-GenAI/A2A-Agent-Action-Guard)
+
+
+## Memory Transformer
+
+Experimental PyTorch memory modules using trainable slots to store and retrieve text without a separate vector database.
+
+- [GitHub repository](https://github.com/Pro-GenAI/Memory-Transformer)
+
+
+## Guarded MCP Proxy
+
+An MCP transport proxy connecting stdio with HTTP or SSE modes while incorporating an action-classifier guard layer.
+
+- [GitHub repository](https://github.com/Pro-GenAI/mcp-proxy-guarded)
+
+
+## Smart Prompt Eval
+
+An evaluation framework for testing robustness to language errors, multilingual prompts, role changes, and harmful prompt variations.
+
+- [GitHub repository](https://github.com/Pro-GenAI/Smart-Prompt-Eval)
+
+
+## iRAT
+
+A research-oriented reasoning pipeline combining replanning, controlled retrieval, and chain evaluation, not intended for production deployment.
+
+- [GitHub repository](https://github.com/Pro-GenAI/iRAT)
+
+
+## Agent-RT
+
+A Python and TypeScript runtime for agents, covering tools, streaming, permissions, approvals, memory, checkpoints, and observability.
+
+- [GitHub repository](https://github.com/Pro-GenAI/Agent-RT)
+- [Official project website](https://agent-rt.pro-genai.com/)
+- [Project resources and related links](https://agent-rt.pro-genai.com/links/)
+- [Research articles and guides](https://agent-rt.pro-genai.com/blog/)
+- [Blog · Latest Ai Models Unsafe Solution](https://agent-rt.pro-genai.com/blog/latest-ai-models-unsafe-solution/)
+- [Blog · Best Ai Agent Frameworks 2026](https://agent-rt.pro-genai.com/blog/best-ai-agent-frameworks-2026/)
+- [Blog · Ai Agent Checkpoints Resume Safely](https://agent-rt.pro-genai.com/blog/ai-agent-checkpoints-resume-safely/)
+- [Blog · Ai Agents Too Slow Expensive](https://agent-rt.pro-genai.com/blog/ai-agents-too-slow-expensive/)
+- [Documentation overview](https://agent-rt.pro-genai.com/docs/)
+- [Docs · Getting Started · Installation](https://agent-rt.pro-genai.com/docs/getting-started/installation)
+- [Docs · Getting Started · Quickstart](https://agent-rt.pro-genai.com/docs/getting-started/quickstart)
+- [Docs · Concepts · Runtime](https://agent-rt.pro-genai.com/docs/concepts/runtime)
+- [Docs · Concepts · Tools Policy](https://agent-rt.pro-genai.com/docs/concepts/tools-policy)
+- [Docs · Concepts · State Memory](https://agent-rt.pro-genai.com/docs/concepts/state-memory)
+- [Docs · Guides · Migration](https://agent-rt.pro-genai.com/docs/guides/migration)
+- [Docs · Guides · Production](https://agent-rt.pro-genai.com/docs/guides/production)
+- [Docs · Guides · Vector Databases](https://agent-rt.pro-genai.com/docs/guides/vector-databases)
+- [Docs · Guides · Runtime Guide](https://agent-rt.pro-genai.com/docs/guides/runtime-guide)
+- [Docs · Reference · Features Defaults](https://agent-rt.pro-genai.com/docs/reference/features-defaults)
+- [Docs · Reference · Comparison](https://agent-rt.pro-genai.com/docs/reference/comparison)
+- [Docs · Reference · Architecture](https://agent-rt.pro-genai.com/docs/reference/architecture)
+- [Docs · Reference · Development](https://agent-rt.pro-genai.com/docs/reference/development)
+- [Docs · Reference · Privacy Terms](https://agent-rt.pro-genai.com/docs/reference/privacy-terms)
+- [Docs · Concepts · Agent Harnesses](https://agent-rt.pro-genai.com/docs/concepts/agent-harnesses)
+- [Docs · Reference · Extension Contracts](https://agent-rt.pro-genai.com/docs/reference/extension-contracts)
+- [Docs · Reference · Configuration](https://agent-rt.pro-genai.com/docs/reference/configuration)
+- [Docs · Guides · Runtime Reference](https://agent-rt.pro-genai.com/docs/guides/runtime-reference)
+- [Docs · Guides · Migration Reference](https://agent-rt.pro-genai.com/docs/guides/migration-reference)
+- [Docs · Reference · Contributor Handbook](https://agent-rt.pro-genai.com/docs/reference/contributor-handbook)
+- [Docs · Reference · Deployment Privacy Checklist](https://agent-rt.pro-genai.com/docs/reference/deployment-privacy-checklist)
+
+Source sitemap: https://github.com/Pro-GenAI/Agent-RT/blob/main/docs/website/sitemap.xml (SHA e737005a37ec18be020976875f5f816f9eb5f802)
+
+
+## Agent Action Guard
+
+A lightweight framework that classifies and blocks harmful AI agent actions before they cause harm.
+
+- [GitHub repository](https://github.com/Pro-GenAI/Agent-Action-Guard)
+- [Official project website](https://action-guard.pro-genai.com/)
+- [Documentation overview](https://action-guard.pro-genai.com/docs/)
+- [Research articles and guides](https://action-guard.pro-genai.com/blog/)
+- [Blog · Unsafe Ai Agent Actions](https://action-guard.pro-genai.com/blog/unsafe-ai-agent-actions/)
+- [Blog · Best Ai Agent Frameworks 2026](https://action-guard.pro-genai.com/blog/best-ai-agent-frameworks-2026/)
+- [Blog · Stop Prompt Injection](https://action-guard.pro-genai.com/blog/stop-prompt-injection/)
+- [Blog · Secure Mcp Tool Calls](https://action-guard.pro-genai.com/blog/secure-mcp-tool-calls/)
+- [Privacy](https://action-guard.pro-genai.com/privacy/)
+- [Terms](https://action-guard.pro-genai.com/terms/)
+
+Source sitemap: https://github.com/Pro-GenAI/Agent-Action-Guard/blob/main/docs/website/sitemap.xml (SHA e10fbfa3fd15515951705fd5f30efba5ac4edae3)
+
+
+## Index-RAG
+
+A retrieval approach that stores text locations alongside vector data to improve source tracking and citation accuracy.
+
+- [GitHub repository](https://github.com/Pro-GenAI/Index-RAG)
+
+
+## ToolSEE
+
+A tool search and selection approach designed to help agents choose relevant tools from large catalogs.
+
+- [GitHub repository](https://github.com/Pro-GenAI/Tool-SEE)
+
+
+## Reasoning Router
+
+A multi-strategy reasoning framework using LangGraph to select approaches for multi-step problem solving.
+
+- [GitHub repository](https://github.com/Pro-GenAI/Reasoning-Router)
+
+
+## FAQ-RAG
+
+A citation-aware RAG approach that transforms documents into structured, grounded FAQ entries for retrieval.
+
+- [GitHub repository](https://github.com/Pro-GenAI/FAQ-RAG)
+
+
+## Gen-UI-Lang
+
+A compact, LLM-friendly UI language that can render to targets including HTML, React JSX, and Gradio.
+
+- [GitHub repository](https://github.com/Pro-GenAI/Gen-UI-Lang)
+
+
+## Large Supervisor Models
+
+An approach to monitoring and interrupting unsafe LLM output during generation, instead of filtering only afterward.
+
+- [GitHub repository](https://github.com/Pro-GenAI/Large-Supervisor-Models)
+
+
+## Data Classifier
+
+A rule-based classifier for labeling LLM training or fine-tuning data, including sensitive, unsafe, and spam-like content.
+
+- [GitHub repository](https://github.com/Pro-GenAI/DataClassifier)
+
+
+## S3Q Reasoning
+
+A prompt-level framework that exposes knowledge, missing information, and assumptions for more auditable answers.
+
+- [GitHub repository](https://github.com/Pro-GenAI/S3Q-Reasoning)
+
+
+## AutoWatcher
+
+An LLM-assisted security alert concept combining detection systems and context-aware threat assessment.
+
+- [GitHub repository](https://github.com/Pro-GenAI/AutoWatcher)
+
+
+## Small Specialist Models
+
+Research into specialized models aimed at reducing model cost and latency through focused capabilities.
+
+- [GitHub repository](https://github.com/Pro-GenAI/Small-Specialist-Models)
+
+
+## Source and updating
+
+This is a curated snapshot, not a live content mirror or independent guarantee of link availability. For the latest technical documentation, prefer the destination sites and GitHub READMEs. Sitemap URLs are copied as listed (with exact-URL duplicates removed).

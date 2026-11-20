@@ -1,0 +1,49 @@
+# Pro-GenAI Open Resources
+
+> Human-readable directory of 23 public Pro-GenAI GitHub repositories with supporting documentation links from four official project sitemaps. Source snapshot: 2026-11-20. The website is a static resource index, not a claim that projects are production-ready.
+
+Pro-GenAI is a GitHub organization sharing research prototypes and developer tools across AI agents, safety, reasoning, RAG, evaluation, and data workflows. For project specifics, inspect the original README and license.
+
+## Primary entry points
+
+- [Pro-GenAI project showcase](https://pro-genai.com/): primary portfolio website.
+- [GitHub organization](https://github.com/Pro-GenAI): primary source code repositories.
+- [Browsable project and documentation directory](https://pro-genai.github.io/): human-readable index.
+- [Full resource index](https://pro-genai.github.io/llms-full.txt): every linked sitemap URL and project repository from this directory.
+
+## Public repositories
+
+- [ReaTerm](https://github.com/Pro-GenAI/ReaTerm): A Rust-based read-only terminal with Python, TypeScript, and MCP integrations for bounded file inspection in agent workflows; an experimental tool, not an audited security boundary.
+- [Awesome Checklists](https://github.com/Pro-GenAI/awesome-checklists): An evidence-oriented checklist library spanning GenAI, RAG, agent safety, evaluation, security, and software launch readiness.
+- [OpenBox Agent-RT SDK (TS)](https://github.com/Pro-GenAI/openbox-agentrt-sdk-ts): A TypeScript integration between Agent-RT and OpenBox with an enforcing governance entry point and separate observability helpers.
+- [OpenBox Agent-RT SDK (Python)](https://github.com/Pro-GenAI/openbox-agentrt-sdk-python): A Python adapter for governing Agent-RT model and tool calls with inline policy checks, telemetry, and optional human approvals.
+- [Safe-LLM](https://github.com/Pro-GenAI/Safe-LLM): Fine-tuning experiments on the HarmActions dataset that train small language models to avoid harmful tool calls and report unsafe requests.
+- [Generative AI Project Template](https://github.com/Pro-GenAI/gen-ai-project-template): A Python starter template with FastAPI chat endpoints, optional RAG utilities, tests, and Docker deployment examples.
+- [A2A Agent Action Guard](https://github.com/Pro-GenAI/A2A-Agent-Action-Guard): An Agent-to-Agent evaluation setup measuring whether agents attempt harmful tool actions when given adversarial tasks.
+- [Memory Transformer](https://github.com/Pro-GenAI/Memory-Transformer): Experimental PyTorch memory modules using trainable slots to store and retrieve text without a separate vector database.
+- [Guarded MCP Proxy](https://github.com/Pro-GenAI/mcp-proxy-guarded): An MCP transport proxy connecting stdio with HTTP or SSE modes while incorporating an action-classifier guard layer.
+- [Smart Prompt Eval](https://github.com/Pro-GenAI/Smart-Prompt-Eval): An evaluation framework for testing robustness to language errors, multilingual prompts, role changes, and harmful prompt variations.
+- [iRAT](https://github.com/Pro-GenAI/iRAT): A research-oriented reasoning pipeline combining replanning, controlled retrieval, and chain evaluation, not intended for production deployment.
+- [Agent-RT](https://github.com/Pro-GenAI/Agent-RT): A Python and TypeScript runtime for agents, covering tools, streaming, permissions, approvals, memory, checkpoints, and observability.
+- [Agent Action Guard](https://github.com/Pro-GenAI/Agent-Action-Guard): A lightweight framework that classifies and blocks harmful AI agent actions before they cause harm.
+- [Index-RAG](https://github.com/Pro-GenAI/Index-RAG): A retrieval approach that stores text locations alongside vector data to improve source tracking and citation accuracy.
+- [ToolSEE](https://github.com/Pro-GenAI/Tool-SEE): A tool search and selection approach designed to help agents choose relevant tools from large catalogs.
+- [Reasoning Router](https://github.com/Pro-GenAI/Reasoning-Router): A multi-strategy reasoning framework using LangGraph to select approaches for multi-step problem solving.
+- [FAQ-RAG](https://github.com/Pro-GenAI/FAQ-RAG): A citation-aware RAG approach that transforms documents into structured, grounded FAQ entries for retrieval.
+- [Gen-UI-Lang](https://github.com/Pro-GenAI/Gen-UI-Lang): A compact, LLM-friendly UI language that can render to targets including HTML, React JSX, and Gradio.
+- [Large Supervisor Models](https://github.com/Pro-GenAI/Large-Supervisor-Models): An approach to monitoring and interrupting unsafe LLM output during generation, instead of filtering only afterward.
+- [Data Classifier](https://github.com/Pro-GenAI/DataClassifier): A rule-based classifier for labeling LLM training or fine-tuning data, including sensitive, unsafe, and spam-like content.
+- [S3Q Reasoning](https://github.com/Pro-GenAI/S3Q-Reasoning): A prompt-level framework that exposes knowledge, missing information, and assumptions for more auditable answers.
+- [AutoWatcher](https://github.com/Pro-GenAI/AutoWatcher): An LLM-assisted security alert concept combining detection systems and context-aware threat assessment.
+- [Small Specialist Models](https://github.com/Pro-GenAI/Small-Specialist-Models): Research into specialized models aimed at reducing model cost and latency through focused capabilities.
+
+## Project documentation websites
+
+- [Agent-RT website](https://agent-rt.pro-genai.com/): 29 distinct links cataloged from [its source sitemap](https://github.com/Pro-GenAI/Agent-RT/blob/main/docs/website/sitemap.xml).
+- [Agent-Action-Guard website](https://action-guard.pro-genai.com/): 9 distinct links cataloged from [its source sitemap](https://github.com/Pro-GenAI/Agent-Action-Guard/blob/main/docs/website/sitemap.xml).
+- [ReaTerm website](https://reaterm.pro-genai.com/): 1 distinct links cataloged from [its source sitemap](https://github.com/Pro-GenAI/ReaTerm/blob/main/docs/website/sitemap.xml).
+- [awesome-checklists website](https://awesome-checklists.pro-genai.com/): 138 distinct links cataloged from [its source sitemap](https://github.com/Pro-GenAI/awesome-checklists/blob/main/docs/website/sitemap.xml).
+
+## Notes
+
+The resource directory transcribes external links from upstream source sitemaps and deduplicates repeated URL entries. Descriptions are editorial summaries; read upstream projects for safety and readiness limitations. The llms.txt format is a voluntary discovery convention, not a guarantee of crawling or citations.
