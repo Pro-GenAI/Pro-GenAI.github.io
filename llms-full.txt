@@ -1,4 +1,4 @@
-# Pro-GenAI — Full Project and Documentation Link Index
+# Praneeth Vadlapati — Full Project and Documentation Link Index
 
 > Plain-text, AI-readable companion to https://pro-genai.github.io/. 23 public repository links and 177 distinct project website URLs. Snapshot: 2026-11-20. All links below are also available in HTML on the main index page.
 

@@ -1,4 +1,4 @@
-# Pro-GenAI GitHub Pages resource directory
+# Praneeth Vadlapati — GitHub Pages resource directory
 
 A standalone, indexable, static directory at **https://pro-genai.github.io/** linking to public Pro-GenAI GitHub projects and documentation pages. The previous redirect to a personal website has been removed. This site serves resource discovery and attribution rather than copying or republishing project content.
 

@@ -1,12 +1,12 @@
-# Pro-GenAI Open Resources
+# Praneeth Vadlapati — Open Resources
 
 > Human-readable directory of 23 public Pro-GenAI GitHub repositories with supporting documentation links from four official project sitemaps. Source snapshot: 2026-11-20. The website is a static resource index, not a claim that projects are production-ready.
 
-Pro-GenAI is a GitHub organization sharing research prototypes and developer tools across AI agents, safety, reasoning, RAG, evaluation, and data workflows. For project specifics, inspect the original README and license.
+Praneeth Vadlapati curates this directory of projects hosted by Pro-GenAI, a GitHub organization sharing research prototypes and developer tools across AI agents, safety, reasoning, RAG, evaluation, and data workflows. For project specifics, inspect the original README and license.
 
 ## Primary entry points
 
-- [Pro-GenAI project showcase](https://pro-genai.com/): primary portfolio website.
+- [Praneeth Vadlapati project showcase](https://pro-genai.com/): primary portfolio website.
 - [GitHub organization](https://github.com/Pro-GenAI): primary source code repositories.
 - [Browsable project and documentation directory](https://pro-genai.github.io/): human-readable index.
 - [Full resource index](https://pro-genai.github.io/llms-full.txt): every linked sitemap URL and project repository from this directory.
